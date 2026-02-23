@@ -22,7 +22,7 @@ git clone https://github.com/fhms217/mengs
 ```
 4. Open the folder
 ```
-cd anomali-xl
+cd mengs
 ```
 5. Setup
 ```
